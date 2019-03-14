@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ImgApp.SegPage"
+             Title="Tela 2">
+    <StackLayout>
+        <Label Text="Capitão América"
+               HorizontalOptions="Center"
+               FontSize="25"
+               TextColor="Blue"/>      
+        <Image Source="Im2.jpg"
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"/>
+        
+    </StackLayout>
+</ContentPage>

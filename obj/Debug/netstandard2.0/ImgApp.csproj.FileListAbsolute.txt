@@ -1,0 +1,14 @@
+/Users/aluno/Projects/ImgApp/ImgApp/bin/Debug/netstandard2.0/ImgApp.deps.json
+/Users/aluno/Projects/ImgApp/ImgApp/bin/Debug/netstandard2.0/ImgApp.dll
+/Users/aluno/Projects/ImgApp/ImgApp/bin/Debug/netstandard2.0/ImgApp.pdb
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/ImgApp.csprojAssemblyReference.cache
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/SegPage.xaml.g.cs
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/TerPage.xaml.g.cs
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/ImgApp.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/ImgApp.AssemblyInfoInputs.cache
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/ImgApp.AssemblyInfo.cs
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/ImgApp.dll
+/Users/aluno/Projects/ImgApp/ImgApp/obj/Debug/netstandard2.0/ImgApp.pdb
